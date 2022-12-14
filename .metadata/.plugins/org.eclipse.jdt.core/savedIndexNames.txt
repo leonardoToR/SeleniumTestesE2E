@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\Cacilda\Desktop\arquivos-base\seleniumTestesE2E\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1067094681.index
+3025593027.index
+3959137331.index
+3073085668.index
